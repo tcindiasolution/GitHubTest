@@ -1,2 +1,2 @@
 # GitHubTest
-My First GitHub test folder
+My First GitHub test folder child branch test
